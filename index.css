@@ -5,7 +5,6 @@ body {
   margin: 0;
   min-height: 100vh;
 }
-
 header {
   background: #12131b;
   color: #ff8e33;
@@ -13,7 +12,6 @@ header {
   text-align: center;
   letter-spacing: 0.05em;
 }
-
 nav a {
   color: #15e5e2;
   margin: 0 18px;
@@ -21,12 +19,10 @@ nav a {
   font-weight: 500;
   font-size: 1.08rem;
 }
-
 nav a:hover {
   color: #a46cff;
   text-shadow: 0 1px 12px #ff8e33;
 }
-
 .product-image {
   width: 90%;
   max-width: 420px;
@@ -36,7 +32,6 @@ nav a:hover {
   margin: 30px auto 32px auto;
   border: 4px solid #467cff;
 }
-
 .description {
   font-size: 1.14rem;
   margin: 0 0 24px 0;
@@ -47,7 +42,6 @@ nav a:hover {
   box-shadow: 0 2px 18px #ff8e3366;
   text-align: center;
 }
-
 .btn {
   background: linear-gradient(90deg, #15e5e2 40%, #a46cff 100%);
   color: #12131b;
@@ -62,13 +56,11 @@ nav a:hover {
   text-decoration: none;
   margin-top: 16px;
 }
-
 .btn:hover {
   background: linear-gradient(90deg, #ff8e33 30%, #15e5e2 100%);
   transform: scale(1.05);
   color: #fff;
 }
-
 footer {
   background: #12131b;
   color: #15e5e2;
@@ -78,7 +70,6 @@ footer {
   font-size: 0.91rem;
   border-top: 2px solid #ff8e33;
 }
-
 @media (max-width: 630px) {
   .description, .product-image {
     width: 98%;
@@ -91,4 +82,3 @@ footer {
     font-size: 1rem;
   }
 }
-
