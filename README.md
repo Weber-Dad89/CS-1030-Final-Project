@@ -16,7 +16,7 @@ Bringing people together to have fun! Plan group activities, host game nights, a
 2. Open `index.html` in your browser
 
 ## Screenshots
-![Screenshot of CoHabitFun](images/screenshot.png)
+![Screenshot of CoHabitFun](images/CoHabit1.png)
 
 ## Contact
 Have ideas? Contact us at fun@cohabitfun.com
